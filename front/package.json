@@ -1,0 +1,20 @@
+{
+  "name": "DatingNow",
+  "author": "Antoine Altmayer",
+  "dependencies": {
+    "angular-toastr": "^2.1.1",
+    "bcrypt-nodejs": "latest",
+    "body-parser": "latest",
+    "cookie-parser": "latest",
+    "cookie-session": "latest",
+    "cors": "latest",
+    "express": "latest",
+    "jsonwebtoken": "latest",
+    "sqlite3": "latest",
+    "morgan": "latest",
+    "mysql": "latest",
+    "nodemon": "^1.11.0",
+    "fs": "latest"
+  },
+  "scripts": {}
+}

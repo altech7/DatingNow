@@ -1,0 +1,16 @@
+{
+  "development": {
+    "sqlite": {
+      "name": "DatingNow",
+      "host": "localhost",
+      "protocol": "mongodb"
+    }
+  },
+  "production": {
+    "sqlite": {
+      "name": "DatingNow",
+      "host": "localhost",
+      "protocol": "mongodb"
+    }
+  }
+}

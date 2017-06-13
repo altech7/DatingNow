@@ -1,0 +1,12 @@
+{
+  "development": {
+    "portNumber": "5000",
+    "subDomain": "datingnow",
+    "domain": "localhost"
+  },
+  "production": {
+    "portNumber": "3000",
+    "subDomain": "datingnow",
+    "domain": "localhost"
+  }
+}
